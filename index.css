@@ -1,9 +1,12 @@
 h1 {
-  color: #1a6600;
+  color: #3df500;
 }
 html {
   background-color: #063642;
 }
+header p {
+  color: #ffa8ff;
+}
 p.description {
-  color: #800000;
+  color: #ffadad;
 }
