@@ -4,3 +4,6 @@ h1 {
 html {
   background-color: #063642;
 }
+p.description {
+  color: #800000;
+}
