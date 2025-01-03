@@ -19,19 +19,29 @@ p.description {
   font-family: Arial, Helvetica, sans-serif;
 }
 p.price {
-  color: #f0ffff;
+  color: #3ab30f;
 }
 s {
-  color: #faebd7;
+  color: #f10909;
   font-size: smaller;
 }
 article.card {
-  border-width: thick;
-  border-style: outset;
-  padding: 1cm;
-  margin: 1cm;
+  background-color: black;
+  border-radius: 25px;
+  border: outset;
+  padding: 20px;
+  width: 500px;
+  margin: 1cm auto;
 }
 
 button {
   background-color: #f9ba71;
+  border-radius: 25px;
+  width: 150px;
+  height: 25px;
+}
+button:hover {
+  background-color: #008000;
+  color: #ffff00;
+  cursor: pointer;
 }
