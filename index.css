@@ -1,18 +1,15 @@
 h1 {
   color: #3df500;
-  text-align: center;
 }
 h2 {
   color: #e9da11;
   font-style: italic;
-  text-align: center;
 }
 html {
   background-color: #063642;
 }
 header p {
   color: #ffa8ff;
-  text-align: center;
 }
 p.description {
   color: #ffadad;
@@ -44,4 +41,10 @@ button:hover {
   background-color: #008000;
   color: #ffff00;
   cursor: pointer;
+}
+
+h1,
+h2,
+header p {
+  text-align: center;
 }
