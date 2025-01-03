@@ -3,6 +3,7 @@ h1 {
 }
 h2 {
   color: #e9da11;
+  font-style: italic;
 }
 html {
   background-color: #063642;
@@ -12,15 +13,22 @@ header p {
 }
 p.description {
   color: #ffadad;
+  font-family: Arial, Helvetica, sans-serif;
 }
 p.price {
   color: #f0ffff;
 }
 s {
-  color: antiquewhite;
+  color: #faebd7;
   font-size: smaller;
 }
 article.card {
   border-width: thick;
   border-style: outset;
+  padding: 1cm;
+  margin: 1cm;
+}
+
+button {
+  background-color: #f9ba71;
 }
