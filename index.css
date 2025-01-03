@@ -1,6 +1,9 @@
 h1 {
   color: #3df500;
 }
+h2 {
+  color: #e9da11;
+}
 html {
   background-color: #063642;
 }
@@ -9,4 +12,15 @@ header p {
 }
 p.description {
   color: #ffadad;
+}
+p.price {
+  color: #f0ffff;
+}
+s {
+  color: antiquewhite;
+  font-size: smaller;
+}
+article.card {
+  border-width: thick;
+  border-style: outset;
 }
